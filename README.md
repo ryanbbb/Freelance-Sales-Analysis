@@ -20,6 +20,9 @@ First, I deleted irrelevant columns that did not provide information, for exampl
 ## Analyze
 
 After data preprocessing, I connected the dataset to Tableau, where I created new calculated fields with aggregates, averages, and coutns of sales attributes such as buyer location, item price, quantity of sales, and annual sales growth. I compared these attributes across geographical locations by drafting figures in Tableau. These quick figures were able to show trends in the data, and progressed my analysis to more specific answers.
+
+I started by performing initial EDA to see which states are selling the most items, and the average price of each item based on state.
+
 Item Sold Price by State
 
 ![avg_item_price_by_state](https://user-images.githubusercontent.com/58805376/177470027-84a335ed-1f0a-432e-b46c-b0d011c8c8db.png)
@@ -27,6 +30,16 @@ Item Sold Price by State
 Number of Items Sold by State
 
 ![Screenshot_72](https://user-images.githubusercontent.com/58805376/177470562-aab92861-51d5-46af-a2fb-3f7345f8ca33.png)
+
+Then, I broke the sales down into the proportion of total order quantity per state (computed in Python), over the course of three years. This way, we can analyze trends in geographic sales data and see which states are having growth or decline in orders.
+
+![2020sales](https://user-images.githubusercontent.com/58805376/177620066-dd8880e8-a26c-48d2-9b89-775844e3196f.png)
+
+![2021sales](https://user-images.githubusercontent.com/58805376/177620108-600f2682-b837-4428-a465-0997d1a6f9de.png)
+
+![2022sales](https://user-images.githubusercontent.com/58805376/177620117-a342e1a8-1c1e-4e8f-8e29-2b34cd104cee.png)
+
+This visualization allows me to see that sales in NY are declining over time, and that the New England and Midwest regions of the United States are seeing the most growth in sales. Namely, Ohio, Texas, and Missouri are major contributors to the overall sales landscape. Thus, the client should tailor their inventory to meet the purchasing habits of these segments.
 
 ## Share
 
