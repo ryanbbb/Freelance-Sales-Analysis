@@ -39,7 +39,7 @@ Then, I broke the sales down into the proportion of total order quantity per sta
 
 ![2022sales](https://user-images.githubusercontent.com/58805376/177620117-a342e1a8-1c1e-4e8f-8e29-2b34cd104cee.png)
 
-This visualization allows me to see that sales in NY are declining over time, and that the New England and Midwest regions of the United States are seeing the most growth in sales. Namely, Ohio, Texas, and Missouri are major contributors to the overall sales landscape. Thus, the client should tailor their inventory to meet the purchasing habits of these segments.
+This visualization allows me to see that sales in NY are declining over time, and that the Southeast and Midwest regions of the United States are seeing the most growth in sales. Namely, Ohio, Texas, and Missouri are major contributors to the overall sales landscape. Thus, the client should tailor their inventory to meet the purchasing habits of these segments.
 
 ## Share
 
