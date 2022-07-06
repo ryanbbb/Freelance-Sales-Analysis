@@ -7,4 +7,4 @@ Item Sold Price by State
 
 Number of Items Sold by State
 
-![num_sales_by_state](https://user-images.githubusercontent.com/58805376/177470130-eb6e2a91-687c-4b1b-8098-d83c100694e6.png)
+![Screenshot_72](https://user-images.githubusercontent.com/58805376/177470562-aab92861-51d5-46af-a2fb-3f7345f8ca33.png)
