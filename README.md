@@ -41,6 +41,12 @@ Then, I broke the sales down into the proportion of total order quantity per sta
 
 This visualization allows me to see that sales in NY are declining over time, and that the Southeast and Midwest regions of the United States are seeing the most growth in sales. Namely, Ohio, Texas, and Missouri are major contributors to the overall sales landscape. Thus, the client should tailor their inventory to meet the purchasing habits of these segments.
 
+I decided to take a closer look at the sales history of Missouri and Texas in a spreadsheet, since these states are seeing the highest growth in the number of orders made. In order to make actionable inventory insights, I used the item titles of MO and TX sales records and categorized each item into one of four discrete categories: Decor, beauty, accesory, kitchen. I manually categorized the items and entered a new column with the category names for each item. I then used COUNTIF to find the total order quantities within each category.
+
+![Screenshot_74](https://user-images.githubusercontent.com/58805376/178850894-c897aaba-738a-4516-b230-2a7c3f2ec27d.png)
+
+My results showed that Texas, a high growth region, has a large demand for Kitchen related items. Examples include salt shakers, cups, silverware, and plates. This evidence suggests that the shop owner should stock more kitchen items in the near future in order to increase sales and expedite inventory turnover. 
+
 ## Share
 
 I compiled my visualizations into a report that was comprehensible for the non-technical client and communicated my data-driven findings. The client reported that my report led to a more sophisticated understanding of their customer base and the factors that lead to sales. 
