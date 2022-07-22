@@ -45,6 +45,8 @@ I decided to take a closer look at the sales history of Missouri and Texas in a 
 
 ![Screenshot_74](https://user-images.githubusercontent.com/58805376/178850894-c897aaba-738a-4516-b230-2a7c3f2ec27d.png)
 
+![Screenshot_76](https://user-images.githubusercontent.com/58805376/180568080-ab18bdfd-119b-4538-8faa-c5d2557d5969.png)
+
 My results showed that Texas, a high growth region, has a large demand for Kitchen related items. Examples include salt shakers, cups, silverware, and plates. This evidence suggests that the shop owner should stock more kitchen items in the near future in order to increase sales and expedite inventory turnover. 
 
 ## Share
